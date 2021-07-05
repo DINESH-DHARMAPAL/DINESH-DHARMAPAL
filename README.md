@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Dinesh P D
+### Hi there 👋, My Name is Dinesh P D
 #### Design and Development 
 ![Design and Development ](https://media-exp3.licdn.com/dms/image/C4E16AQEmcabyO6yzvg/profile-displaybackgroundimage-shrink_200_800/0/1625483687441?e=1631145600&v=beta&t=LBeqxlMp1FA8Kw3LhFsAOIV_xSKK8StdOcpXikX1qJY)
 
