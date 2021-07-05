@@ -9,7 +9,10 @@ Skills: DJANGO/PYQT5/ HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 💬 Ask me about Ideas 
-- 📫 How to reach me: dineshdharmapal@gmail.com 
+- 
+### Connect with me in - 
+[![Linkedin Badge](https://img.shields.io/badge/-Dinesh Dharmapal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinesh-dharmapal-2166b5202/)](https://www.linkedin.com/in/amal-ajay/)
+[![Gmail Badge](https://img.shields.io/badge/-Dinesh Dharmapal-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dineshdharmapal@gmail.com)](mailto:dineshdharmapal@gmail.com)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DINESH-DHARMAPAL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dinesh-dharmapal-2166b5202/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/dinesh-dharmapal)  
